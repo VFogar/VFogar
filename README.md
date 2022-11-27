@@ -10,7 +10,6 @@ através da comunicação com o CLP. Também sou certificado da Azure AI-900 em 
 
 
 ![Vitor Fogar GitHub stats](https://github-readme-stats.vercel.app/api?username=VFogar&show_icons=true&theme=radical)
-[![O que mais utilizo:](https://github-readme-stats.vercel.app/api/top-langs/?username=VFogar)](https://github.com/anuraghazra/github-readme-stats)
   
 
 ## Tecnologias que utilizo:
